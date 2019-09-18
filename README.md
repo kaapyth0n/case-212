@@ -55,8 +55,7 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
-| Дмитрий Богомолов                  | Developer                               |
-| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
+| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
@@ -73,4 +72,4 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Багиров Эльшан                     | Backend developer                       |
+| Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
